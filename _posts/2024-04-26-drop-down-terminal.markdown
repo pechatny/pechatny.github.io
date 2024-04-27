@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Как настроить Drop Down Terminal в Ubuntu"
-date:   2024-04-27 08:28:11 -0500
+date:   2024-04-26 08:28:00 -0500
 categories: jekyll update
 ---
 ## ddterm (Drop Down Terminal)
