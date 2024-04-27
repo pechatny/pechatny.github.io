@@ -2,7 +2,7 @@
 layout: post
 title:  "Как установить Docker в Ubuntu"
 date:   2024-04-27 17:29:00 -0500
-categories: Ubuntu
+categories: jekyll update
 ---
 Я выбрал вариант установки через используя Docker Desktop.
 Сначала добавляем официальный репозиторий с пакетами Docker. 
