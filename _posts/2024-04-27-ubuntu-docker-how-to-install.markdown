@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "Как установить Docker в Ubuntu"
-date:   2024-04-27 17:29:00 -0500
+date:   2024-04-27 14:29:00
 categories: jekyll update
 ---
+
 Я выбрал вариант установки через используя Docker Desktop.
 Сначала добавляем официальный репозиторий с пакетами Docker. 
 Без него не установится deb пакет.
+
 ```bash
 # Add Docker's official GPG key:
 sudo apt-get update
