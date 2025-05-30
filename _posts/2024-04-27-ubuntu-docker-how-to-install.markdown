@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Как установить Docker в Ubuntu"
-date:   2024-04-27 14:29:00
+date:   2024-04-27 14:29:00 +0300
 categories: jekyll update
 ---
 

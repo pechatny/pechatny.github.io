@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Как настроить русскую раскладку для vim в Intellij Idea?" 
-date:   2024-05-20 00:00:00 -0500
+date:   2024-05-20 00:00:00 +0300
 categories: vim
 ---
 

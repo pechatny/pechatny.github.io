@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Как сделать PowerShell красивым как \"Oh My ZSH!\""
-date:   2025-05-30 20:00:00 -0500
+date:   2025-05-30 20:00:00 +0300
 categories: windows
 ---
 Сначала необходимо установить Windows Terminal.
