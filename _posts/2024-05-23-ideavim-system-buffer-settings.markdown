@@ -2,6 +2,7 @@
 layout: post
 title: "IdeaVim удобный буфер обмена"
 date:   2024-05-23 00:00:00 -0500
+categories: vim
 ---
 
 # IdeaVim удобный буфер обмена
