@@ -11,4 +11,4 @@ comments: true
 git rebase -i HEAD~3
 ```
 
-HEAD~3   это 3 коммита назад.
+HEAD~3 это 3 коммита назад.
