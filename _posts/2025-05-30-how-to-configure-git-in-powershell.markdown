@@ -2,7 +2,7 @@
 layout: post
 title:  "Как настроить ssh-key и git в PowerShell"
 date:   2025-05-30 19:39:00 +0300
-categories: windows
+categories: [windows]
 ---
 Настройка SSH-ключа и Git в PowerShell включает несколько шагов. Вот подробное руководство:
 

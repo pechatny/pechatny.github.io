@@ -2,7 +2,7 @@
 layout: post
 title:  "Удобная замена слова в файле с помощью Vim"
 date:   2025-06-06 00:14:06 +0300
-categories: vim
+categories: [vim]
 comments: true
 ---
 

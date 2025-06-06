@@ -2,7 +2,7 @@
 layout: post
 title:  "UML отношения relationships"
 date:   2025-06-03 18:55:00 +0300
-categories: uml
+categories: [uml]
 comments: true
 ---
 # UML отношения relationships

@@ -2,7 +2,7 @@
 layout: post
 title:  "Интерактивный git rebase -i"
 date:   2025-05-31 19:05:00 +0300
-categories: git
+categories: [git]
 comments: true
 ---
 Отредактировать 3 последних коммита:

@@ -2,7 +2,7 @@
 layout: post
 title:  "Как создать шаблон файла в Intellij Idea"
 date:   2025-06-04 19:50:39 +0300
-categories: common
+categories: [common]
 comments: true
 ---
 
@@ -30,7 +30,7 @@ comments: true
 layout: post
 title:  "${POST_TITLE}"
 date:   ${YEAR}-${MONTH}-${DAY} ${HOUR}:${MINUTE}:${SECOND} +0300
-categories: common
+categories: [common]
 comments: true
 ---
 # ${POST_TITLE}
