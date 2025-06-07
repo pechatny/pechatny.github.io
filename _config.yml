@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Я вышел из душа
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pechatnikov.com" # the base hostname & protocol for your site, e.g. http://example.com
-copyright: "(c) Dmitry Pechatnikov, 2024"
+copyright: "(c) Dmitry Pechatnikov, 2025"
 github_username:  pechatny
 
 timezone: Europe/Moscow
@@ -38,6 +38,9 @@ theme: minima
 
 plugins:
   - jekyll-feed
+
+disqus:
+  shortname: pechatnikov-com
 
 # Exclude from processing.
 # The following items will not be processed, by default.
