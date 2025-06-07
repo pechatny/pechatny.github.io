@@ -2,6 +2,8 @@
 layout: post
 title: "Как создать блог Jekyll с помощью Docker" 
 date:   2024-05-11 00:00:00 +0300
+categories: [jekyll]
+comments: true
 ---
 
 ## Создаю новый сайт:

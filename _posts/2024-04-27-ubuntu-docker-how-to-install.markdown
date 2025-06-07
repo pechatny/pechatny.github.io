@@ -3,6 +3,7 @@ layout: post
 title:  "Как установить Docker в Ubuntu"
 date:   2024-04-27 14:29:00 +0300
 categories: [jekyll, update]
+comments: true
 ---
 
 Я выбрал вариант установки через используя Docker Desktop.

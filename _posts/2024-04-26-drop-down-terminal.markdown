@@ -3,6 +3,7 @@ layout: post
 title:  "Как настроить Drop Down Terminal в Ubuntu"
 date:   2024-04-26 08:28:00 +0300
 categories: [ubuntu]
+comments: true
 ---
 ## ddterm (Drop Down Terminal)
 1. В центре приложений выбрать и установить "Менеджер расширений"
