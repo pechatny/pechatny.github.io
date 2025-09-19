@@ -72,12 +72,13 @@ https://github.com/dahlbyk/posh-git
 PowerShellGet\Install-Module posh-git -Scope CurrentUser -Force
 ```
 
+И выполнить эту команду, чтобы включить этот модуль.
+```
+Add-PoshGitToProfile
+```
+
 ## Установка Vim
 Скачать vim с официального сайта, установить в любую папку куда есть доступ.
 https://www.vim.org/download.php
 
 И в Path прописать путь до файла vim
-И выполнить эту команду, чтобы включить этот модуль.
-```
-Add-PoshGitToProfile
-```
